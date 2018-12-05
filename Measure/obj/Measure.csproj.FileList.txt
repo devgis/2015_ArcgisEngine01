@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Measure.MeasuredisTool.cur
+obj\Debug\Measure.MeasuredisTool.bmp
+obj\Debug\Measure.MainForm.resources
+obj\Debug\Measure.Properties.Resources.resources
+obj\Debug\Measure.csproj.GenerateResource.Cache
+bin\Debug\Measure.exe
+bin\Debug\Measure.pdb
+obj\Debug\Measure.exe
+obj\Debug\Measure.pdb
+obj\Debug\Measure.FrmMeasure.resources

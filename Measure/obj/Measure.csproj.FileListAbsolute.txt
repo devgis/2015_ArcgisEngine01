@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\桌面\测量\Measure\obj\Debug\Measure.exe
+C:\Documents and Settings\Administrator\桌面\测量\Measure\obj\Debug\Measure.pdb
+C:\Documents and Settings\Administrator\桌面\测量\Measure\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\测量\Measure\obj\Debug\Measure.MeasuredisTool.cur
+C:\Documents and Settings\Administrator\桌面\测量\Measure\obj\Debug\Measure.MeasuredisTool.bmp
+C:\Documents and Settings\Administrator\桌面\测量\Measure\obj\Debug\Measure.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\测量\Measure\obj\Debug\Measure.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\测量\Measure\obj\Debug\Measure.FrmMeasure.resources
+C:\Documents and Settings\Administrator\桌面\测量\Measure\obj\Debug\Measure.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\测量\Measure\bin\Debug\Measure.exe
+C:\Documents and Settings\Administrator\桌面\测量\Measure\bin\Debug\Measure.pdb
